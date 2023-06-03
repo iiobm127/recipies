@@ -1,2 +1,2 @@
 # recipies
-A website for recipes
+A simple website for recipies 
